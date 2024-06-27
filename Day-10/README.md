@@ -1,4 +1,4 @@
-# Day 11 Task: Advance Git & GitHub for DevOps Engineers: Part-2
+# Day 10 Task: Advance Git & GitHub for DevOps Engineers: Part-2
 
 ## Git Stash:
 
