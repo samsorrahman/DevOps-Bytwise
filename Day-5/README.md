@@ -21,7 +21,7 @@ then it creates 90 directories as `day1 day2 day3 .... day90`
 Example 2: When the script is executed as
 
 `./createDirectories.sh Movie 20 50`
-then it creates 50 directories as `Movie20 Movie21 Movie23 ...Movie50`
+then it creates 30 directories as `Movie20 Movie21 Movie23 ...Movie50`
 
 Notes:
 You may need to use loops or commands (or both), based on your preference . [Check out this reference: https://www.geeksforgeeks.org/bash-scripting-for-loop/](https://www.geeksforgeeks.org/bash-scripting-for-loop/)
