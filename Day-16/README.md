@@ -20,7 +20,7 @@ Till now you have created Docker file and pushed it to the Repository. Let's mov
 
 Learn how to use the docker-compose.yml file, to set up the environment, configure the services and links between different containers, and also to use environment variables in the docker-compose.yml file.
 
-[Sample docker-compose.yaml file](https://github.com/LondheShubham153/90DaysOfDevOps/blob/master/2023/day18/docker-compose.yaml)
+[Sample docker-compose.yaml file](https://github.com/samsorrahman/DevOps-Bytwise/blob/main/Day-16/docker-compose.yaml)
 
 ## Task-2
 
